@@ -1,2 +1,2 @@
 # TSF-task-1
-This is the task-1 of the Sparks Foundation Web development Internship.
+basic_banking_system is project under internship offered by GRIP of The Sparks Foundation(TSF).In this project using HTML,CSS , JavaScript. We can transfer money and can view the transaction history for the same.
